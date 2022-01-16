@@ -1,4 +1,4 @@
-_G.Speed = 50
+_G.Speed = b
 --[[
 set speed lower in the streets, they have something
 unbypassable, it detects if you were off the floor and
